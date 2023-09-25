@@ -1,6 +1,6 @@
 ### L.Hyun’s Github.
 
-##Data Analyst, ML Engineer를 꿈꾸는 이창현입니다.
+## Data Analyst, ML Engineer를 꿈꾸는 이창현입니다.
 
 울산대학교 IT융합학부 4학년 재학중입니다. 
 
