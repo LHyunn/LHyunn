@@ -1,6 +1,6 @@
 # L.Hyun’s Github.
 
-## Data Analyst, ML Engineer를 꿈꾸는 이창현입니다.
+## Data Analyst를 꿈꾸는 이창현입니다.
 
 성균관대학교 산업공학과(시스템경영공학과) 석사과정 재학중입니다. 
 
